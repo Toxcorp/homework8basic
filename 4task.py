@@ -8,8 +8,10 @@ for i in range(12):
         else:
             row += "*"
     file_4.append({"row": row})
+# Це у мене квадрат Малевича
 fieldnames = ["row"]
 with open("4.csv", "w", newline="", encoding="utf-8") as f_4:
     writer_ASCII = c.DictWriter(f_4, fieldnames=fieldnames)
     writer_ASCII.writeheader()      
+
     writer_ASCII.writerows(file_4)
