@@ -1,0 +1,8 @@
+Customer_ID,Product,Category,Purchase_Date
+1001,Laptop,Electronics,2024-02-01
+1002,Smartphone,Electronics,2024-02-02
+1003,Sofa,Furniture,2024-02-03
+1001,Tablet,Electronics,2024-02-10
+1002,Chair,Furniture,2024-02-15
+1003,Laptop,Electronics,2024-02-18
+1004,Desk,Furniture,2024-02-20
